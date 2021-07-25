@@ -1,6 +1,6 @@
 ### Hi there! Welcome to my GitHub profile!
-- 🎓 My name is Federico Soriano, I'm a current student of the Master in Data Science at The University of Sydney (USYD). I got graduated previously in the Master in Big Data Technologies and Advanced Analytics from Comillas Pontifical University (ICAI) and in Aerospace Engineering from Technical University of Madrid (Polytechnic University of Madrid - UPM).
-- 👔 At the moment I'm working as a researcher at both The University of Sydney and Comillas Pontifical University. 
+- 🎓 My name is Federico Soriano, I hold a Master of Applied Science in Data Science from The University of Sydney (USYD). I got graduated previously in the Master in Big Data Technologies and Advanced Analytics from Comillas Pontifical University (ICAI) and in Aerospace Engineering from Technical University of Madrid (Polytechnic University of Madrid - UPM).
+- 👔 At the moment I'm working as a Data Scientist. 
 - ⌨ I have a strong programming background: highly skilled in Python, R and Matlab. 
 - 📀 I am really passionate about Data Science, Machine Learning, Business Strategy & Consulting (Not precisely in that order ㋡).
 
